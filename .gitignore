@@ -1,0 +1,65 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pkl
+*.log
+*.sqlite3
+
+# ========================
+# Environment & Secrets
+# ========================
+.env
+.env.*
+*.env
+secrets.yml
+config.json
+
+
+
+# ========================
+# OS & Editor Files
+# ========================
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# ========================
+# IDEs
+# ========================
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ========================
+# Virtual Environments
+# ========================
+**/.venv/
+**/env/
+**/venv/
+**/bin/
+**/include/
+**/lib/
+**/lib64/
+**/pyvenv.cfg
+
+
+
+# ========================
+# Existing Python/Venv items (keep these)
+# ========================
+**/.venv/
+**/env/
+**/venv/
+**/bin/
+**/include/
+**/lib/
+**/lib64/
+**/pyvenv.cfg
+
